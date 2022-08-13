@@ -1,0 +1,11 @@
+
+var today = moment();
+$("#currentDay", ".lead").text(today.format("dddd, MMMM Do YYYY, h:mm:ss a"));
+console.log("today");
+
+
+
+
+
+
+
